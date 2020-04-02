@@ -1,0 +1,5 @@
+main: ch515.cheeser.Main
+name: cheeser
+version: 1.0
+author: Caleb Heydon
+api-version: 1.8.8
